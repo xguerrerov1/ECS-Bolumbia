@@ -1,0 +1,11 @@
+- Pagina de login
+
+- Pagina de cosas personales (2 paginas)
+ - Nombre, apellido, edad, genero
+ - Estado civi, lugar de nacimiento
+
+- Pagina de direccion (2 paginas)
+ - Departamento, cuidad, barrio
+ - Direccion, estracto, tipo de vivienda
+
+- Pagina de feedback (comentarios)
